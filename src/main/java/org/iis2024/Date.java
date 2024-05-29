@@ -85,8 +85,8 @@ public class Date {
     }
   }
 
-  public void Metrodaddedbyowner{
-    System.out.println("Method added by the owner")
+  public void Metrodaddedbyowner(){
+    gi
   }
 
 }
